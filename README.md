@@ -11,5 +11,4 @@ Using train_merge_tfrecord.py<br>
 How to test?<br>
 ---
 Using latest_12.py<br>
----
 weight.py is used when you want to add Adaboost into your train.
