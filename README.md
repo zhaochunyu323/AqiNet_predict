@@ -8,6 +8,7 @@ Yu Zheng, Xiuwen Yi, Ming Li, Ruiyuan Li, Zhangqing Shan, Eric Chang, Tianrui Li
 How to train?<br>
 ---
 Using train_merge_tfrecord.py<br>
+
 How to test?<br>
 ---
 Using latest_12.py<br>
